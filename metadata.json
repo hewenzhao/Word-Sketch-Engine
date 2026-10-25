@@ -1,0 +1,6 @@
+{
+  "name": "LexiSketch Corpus Linguistics Workbench",
+  "description": "Corpus analysis and pattern searching tool with concordance KWIC, collocations, regex queries, frequency distributions, and comparative analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
